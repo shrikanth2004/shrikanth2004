@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm YOUR NAME</h1>
+<h1 align="center">👋 Hey there! I'm Shrikanth Nayak</h1>
 
 <p align="center">
   A passionate developer continuously learning, building, and exploring new technologies.
