@@ -1,11 +1,13 @@
-<h1 align="center">Hey there! I'm YOUR NAME 👋</h1>
+<h1 align="center">👋 Hey there! I'm YOUR NAME</h1>
 
-<p align="center">A passionate developer always learning and building exciting things.</p>
+<p align="center">
+  A passionate developer continuously learning, building, and exploring new technologies.
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=nord_dark" alt="Your GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=nord_dark" alt="GitHub Profile Summary" />
 </div>
 
 <br>
@@ -17,14 +19,14 @@
 
 ---
 
-<h2 align="center">My Toolbox 🛠️</h2>
+<h2 align="center">🛠️ My Toolbox</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,mongodb,postgresql,docker,git,github,vscode,figma" alt="My Skills" />
 </p>
 
 ---
 
-<h2 align="center">Let's Connect! 🤝</h2>
+<h2 align="center">🤝 Let's Connect</h2>
 <p align="center">
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
