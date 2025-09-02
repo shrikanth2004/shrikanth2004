@@ -4,11 +4,6 @@
   A passionate developer continuously learning, building, and exploring new technologies.
 </p>
 
----
-
-
-
-
 
 
 <h2 align="center">🤝 Let's Connect</h2>
@@ -23,4 +18,4 @@
 
 </p>
 
----
+
