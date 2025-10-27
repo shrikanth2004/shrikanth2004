@@ -5,17 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
 
-- 🔭 I’m currently working on **a new web application.**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 💬 Ask me about **Web Development and Python.**
-
-- 📫 How to reach me **nshrikanthnayak19@gmail.com**
-
----
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
