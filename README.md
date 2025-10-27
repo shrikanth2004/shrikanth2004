@@ -59,11 +59,11 @@
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrikanth2004&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-GITHUB-USERNAME&layout=compact&locale=en&theme=tokyonight" alt="top langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrikanth2004&layout=compact&locale=en&theme=tokyonight" alt="top langs" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="github streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikanth2004&theme=tokyonight" alt="github streak" />
 </p>
