@@ -92,8 +92,13 @@ fun_fact    : I turn coffee ☕ into code 💻
 <br/>
 
 <!-- Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=shrikanth2004&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikanth2004&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrikanth2004&theme=tokyonight" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrikanth2004&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrikanth2004&theme=tokyonight" width="95%" />
 
 <br/><br/>
 
