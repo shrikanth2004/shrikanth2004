@@ -92,19 +92,19 @@ fun_fact    : I turn coffee ☕ into code 💻
 <br/>
 
 <!-- Stats Cards in layout -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrikanth2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_border=false&border_color=0e75b6&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrikanth2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrikanth2004&layout=compact&theme=tokyonight&border_radius=15&hide_border=false&border_color=0e75b6&bg_color=0d1117&title_color=0e75b6&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikanth2004&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrikanth2004&theme=tokyonight&border_radius=15&border=0e75b6&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=FF6B6B&currStreakLabel=0e75b6&sideLabels=0e75b6&dates=888888" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=shrikanth2004&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shrikanth2004&theme=tokyo-night&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&area_color=0e75b6&hide_border=false&border_color=0e75b6&radius=15" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shrikanth2004&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&theme=github-compact" />
 
 </div>
 
@@ -115,7 +115,7 @@ fun_fact    : I turn coffee ☕ into code 💻
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=shrikanth2004&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=shrikanth2004&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
 
 </div>
 
@@ -132,8 +132,12 @@ fun_fact    : I turn coffee ☕ into code 💻
   <img src="https://img.shields.io/badge/LinkedIn-Shrikanth%20Nayak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://github.com/shrikanth2004" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-shrikanth2004-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+<a href="https://www.instagram.com/shrikanth_nayak_19?igsh=MXcxZTU5d3pmd2QwcA==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-shrikanth__nayak__19-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/shrikanth_nayak_19/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-shrikanth__nayak__19-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
