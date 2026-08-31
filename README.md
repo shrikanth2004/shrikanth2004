@@ -91,20 +91,19 @@ fun_fact    : I turn coffee ☕ into code 💻
 
 <br/>
 
-<!-- Stats Cards in layout -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrikanth2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikanth2004&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=shrikanth2004&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikanth2004&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=shrikanth2004&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=shrikanth2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shrikanth2004&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&theme=github-compact" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shrikanth2004&theme=react-dark&hide_border=true" />
 
 </div>
 
@@ -115,7 +114,7 @@ fun_fact    : I turn coffee ☕ into code 💻
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=shrikanth2004&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=shrikanth2004&theme=tokyonight&no-frame=true&column=7&margin-w=5" />
 
 </div>
 
