@@ -107,19 +107,12 @@ fun_fact    : I turn coffee ☕ into code 💻
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shrikanth2004&theme=react-dark&hide_border=true" />
-
-</div>
-
----
-
-<!-- Trophy Section -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=shrikanth2004&theme=tokyonight&no-frame=true&column=7&margin-w=5" />
+<!-- Reliable Stat Badges via Shields.io -->
+<img src="https://img.shields.io/github/stars/shrikanth2004?style=for-the-badge&logo=github&color=0e75b6&labelColor=0d1117&label=Total%20Stars" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/shrikanth2004?style=for-the-badge&logo=github&color=0e75b6&labelColor=0d1117&label=Followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-0e75b6?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" />
 
 </div>
 
